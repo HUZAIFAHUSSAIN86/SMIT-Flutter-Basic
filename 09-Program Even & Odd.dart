@@ -1,14 +1,14 @@
 //----------------------------------------Method (1)
-void main (){
-  int num = 9;
+// void main (){
+//   int num = 9;
 
-  if( num .isOdd){
-    print("This number is : Odd");
-  }
-  else{
-print("This number is : Even");
-  }
-}
+//   if( num .isOdd){
+//     print("This number is : Odd");
+//   }
+//   else{
+// print("This number is : Even");
+//   }
+// }
 
 //----------------------------------------Method (2)
 //  void main(){
