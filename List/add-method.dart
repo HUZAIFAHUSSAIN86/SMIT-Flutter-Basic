@@ -1,10 +1,10 @@
 
-//-------------------------------------------------------Add item to list (02)
+//-------------------------------------------------------Add value to list (02)
 void main(){
- var myList = [25, 63, 84];  
-print(myList);
+ var mylist = [25, 63, 84, 80];  
+print(mylist);
      
-//add num to list
- myList.add(96);
-print(myList);
+//add number to list
+ mylist.add(96);
+print(mylist);
 }
