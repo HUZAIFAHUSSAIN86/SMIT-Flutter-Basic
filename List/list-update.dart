@@ -3,8 +3,8 @@
 void main(){
 List<String> fruits = ["Apple", "Mango", "Banana"];
 
-//The index of Mango is 1
+//The index of Mango is 0
 
-fruits[1] = "HUZAIFA"; 
+fruits[0] = "HUZAIFA"; 
 print(fruits);
 }
